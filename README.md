@@ -1,4 +1,0 @@
-# app
-deneme
-
-fdasfdsfds
